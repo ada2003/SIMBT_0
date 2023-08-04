@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(45deg, red, blue);
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: left;
+  }
+
+  .todo-button {
+    margin-bottom: 10px;
+  }
+
+  .task-card {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .remove-button {
+    margin-left: 5px;
+  }
+
+  .small-font {
+    font-size: 12px;
+    color: #999;
+  }
